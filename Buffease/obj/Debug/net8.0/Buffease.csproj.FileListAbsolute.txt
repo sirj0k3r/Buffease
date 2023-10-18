@@ -4,12 +4,15 @@
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.AssemblyInfo.cs
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.csproj.CoreCompileInputs.cache
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.RazorAssemblyInfo.cache
+/Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.RazorAssemblyInfo.cs
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.sourcelink.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.dll
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/refint/Buffease.dll
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.pdb
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/appsettings.Development.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/appsettings.json
+/Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/Buffease.staticwebassets.runtime.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/Buffease.deps.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/Buffease.runtimeconfig.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/bin/Debug/net8.0/Buffease.dll
@@ -21,6 +24,8 @@
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/staticwebassets.pack.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/staticwebassets.build.json
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/staticwebassets.development.json
+/Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/scopedcss/bundle/Buffease.styles.css
+/Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/scopedcss/projectbundle/Buffease.bundle.scp.css
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/Buffease.genruntimeconfig.cache
 /Volumes/Network Storage/Productivity/Archive/PPF/Documents/Projects/Buffease/Buffease/obj/Debug/net8.0/ref/Buffease.dll

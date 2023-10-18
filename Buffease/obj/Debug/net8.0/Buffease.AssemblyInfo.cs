@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buffease")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af650797c45559df65d39e80e55f8702181e04a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9412e4e68b74833bf5efa9ae14512f5fd078e28")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buffease")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buffease")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
